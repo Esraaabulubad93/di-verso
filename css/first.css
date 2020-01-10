@@ -1,0 +1,143 @@
+body 
+{
+margin: 0;
+}
+
+.one 
+{
+height: 50px;
+background-color: #EAE6E5 ;
+}
+.two
+{
+margin-right: 20px;
+float: right;
+margin-top: 15px;
+word-spacing: 5px;
+}
+
+.two a 
+{
+text-decoration: none;
+padding: 10px;
+color: black;
+}
+#one
+{
+border-right: 1px solid black ;
+}
+.three
+{
+float: left;
+margin-left: 20px;
+}
+
+.icon
+{
+float: right;
+word-spacing: 30px;
+padding: 20px;
+text-align: center;
+}
+
+.icon div 
+{
+display: inline-block;
+}
+
+.four div
+{
+display: inline-block;
+}
+.four  
+{
+text-align: center;
+}
+
+.five
+{
+color: #BCB4B2;
+}
+
+.icon2
+{
+padding:10px;
+}
+.icon2 div
+{
+
+display: inline-block;
+}
+.six{
+width: 300px;
+margin: 60px;
+}
+
+.seven
+{
+clear: both;
+background-color: #EAE6E5 ;
+padding: 2px;
+padding-left: 100px;
+}
+.seven h3
+{
+margin-left: 50px;
+}
+.seven div {
+display: inline-block;
+}
+#three{
+transform: rotate(340deg);
+}
+
+.icon3 
+{
+background-color: #A9A09E;
+}
+
+.icon3 div 
+{	
+display: inline-block;
+}
+.eight 
+ {
+width: 300px;
+margin: 70px;
+}
+
+ul 
+{	
+list-style: none;
+margin: 0px;
+padding-left: 0px;
+}
+li 
+{
+text-align: left;
+padding-top: 5px;
+margin-left: 0px;
+}
+#two
+{
+display: inline-block;
+}
+footer
+{
+clear: both;
+text-align: left;
+background-color: grey ;
+padding: 2px;
+}
+
+.nine div
+{
+display: inline-block;
+margin-left: 20px;
+margin-top: 20px;
+}
+.ten
+{
+float: right;
+padding: 9px;
+}
